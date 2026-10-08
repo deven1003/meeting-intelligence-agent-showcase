@@ -67,7 +67,7 @@ flowchart LR
 ### Who is where
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph Cand["👤 Candidate's device"]
         CM["Google Meet<br/>(nothing to install)"]
     end
